@@ -180,15 +180,15 @@
         <div class="slideshow-container" id="home">
 
             <div class="mySlides fade">
-                <img src="https://storage.googleapis.com/evadehungerbucket/1.png" width="100%" height="600">
+                <img src="https://g-gourav-r.github.io/webopenended/img/1.png" width="100%" height="600">
             </div>
 
             <div class="mySlides fade">
-                <img src="https://storage.googleapis.com/evadehungerbucket/2.png" style="width:100%">
+                <img src="https://g-gourav-r.github.io/webopenended/img/2.png" style="width:100%">
             </div>
 
             <div class="mySlides fade">
-                <img src="https://storage.googleapis.com/evadehungerbucket/3.png" style="width:100%">
+                <img src="https://g-gourav-r.github.io/webopenended/img/3.png" style="width:100%">
             </div>
 
         </div>
